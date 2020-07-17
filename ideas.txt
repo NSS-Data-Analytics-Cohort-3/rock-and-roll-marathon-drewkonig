@@ -1,2 +1,1 @@
-faster way to import data
 dynamic chart - tabled, out of time
